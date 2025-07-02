@@ -8,7 +8,7 @@ public class GestorFrotasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestorFrotasApplication.class, args);
-		System.out.println("Boa tarde");
+		
 	}
 
 }
